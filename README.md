@@ -1,10 +1,17 @@
+# Final overview
+
+https://github.com/user-attachments/assets/85c83f0c-1672-4bd8-b219-658e5064ffe9
+
+
 # Welcome to the Integrating With HubSpot I: Foundations Practicum
 
 This repository is for the Integrating With HubSpot I: Foundations course. This practicum is one of two requirements for receiving your Integrating With HubSpot I: Foundations certification. You must also take the exam and receive a passing grade (at least 75%).
 
 To read the full directions, please go to the [practicum instructions](https://app.hubspot.com/academy/l/tracks/1092124/1093824/5493?language=en).
 
-**Put your HubSpot developer test account custom objects URL link here:** https://app.hubspot.com/contacts/l/objects/${custom-obj-number}/views/all/list
+**Put your HubSpot developer test account custom objects URL link here:** 
+https://app.hubspot.com/contacts/49600504/objects/2-42445264/views/all/list
+
 
 ___
 ## Tips:

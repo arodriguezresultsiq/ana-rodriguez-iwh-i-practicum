@@ -1,0 +1,21 @@
+doctype html
+html
+  head
+    title Update Custom Object - Integrating With HubSpot | Practicum
+    meta(name="viewport", content="width=device-width, initial-scale=1")
+    link(rel="stylesheet", href="/css/style.css")
+  body
+    h1 Update Pet Details
+    .form-wrapper
+      form(action="/update-cobj", method="POST")
+        .form-group
+          label(for="name") Name:
+          input(type="text", id="name", name="name")
+        .form-group
+          label(for="type") Type:
+          input(type="text", id="type", name="type")
+        .form-group
+          label(for="bio") Bio:
+          input(type="text", id="bio", name="bio")
+        button(type="submit") Update Pet
+    a.back-link(href='/') Back to Homepage
