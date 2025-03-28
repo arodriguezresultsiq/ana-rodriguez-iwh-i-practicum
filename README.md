@@ -1,3 +1,8 @@
+# Final overview
+
+https://github.com/user-attachments/assets/85c83f0c-1672-4bd8-b219-658e5064ffe9
+
+
 # Welcome to the Integrating With HubSpot I: Foundations Practicum
 
 This repository is for the Integrating With HubSpot I: Foundations course. This practicum is one of two requirements for receiving your Integrating With HubSpot I: Foundations certification. You must also take the exam and receive a passing grade (at least 75%).
